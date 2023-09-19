@@ -1,3 +1,6 @@
+This example referenced Juddling/pi-pico-enc28j60.
+: https://github.com/Juddling/pi-pico-enc28j60
+
 # How to Test iPerf Example
 
 
