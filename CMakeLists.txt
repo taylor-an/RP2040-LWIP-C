@@ -28,6 +28,7 @@ pico_sdk_init()
 #set(WIZNET_CHIP W5100S)
 #set(WIZNET_CHIP W5500)
 set(WIZNET_CHIP W6100)
+#set(WIZNET_CHIP ENC28J60)
 
 if(${WIZNET_CHIP} STREQUAL W5100S)
     add_definitions(-D_WIZCHIP_=W5100S)
